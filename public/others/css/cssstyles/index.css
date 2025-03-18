@@ -1,0 +1,43 @@
+/*sidebar icons styles*/
+.nav-label{
+  font-size: 20px;
+}
+
+.navbar{
+	height: 61px;
+	/*background-color: #85e7e4;*/
+	background-color: rgba(17,16, 17, 0.5);
+}
+
+#dropitem{
+font-weight: bold;
+}
+
+#cardstyle{
+	height: 120px;
+}
+
+#cardfoot{
+	margin-top: -2px;
+    background-color: pink;
+    margin-left: -17px;
+    margin-right: -17px;
+    
+}
+
+#Card{
+	width: 300px;
+}
+
+#navitem:hover{
+	color: white;
+}
+
+#arrowright{
+	margin-left: 165px;
+}
+
+#heading4{
+	margin-top: -10px;
+	color: white;
+}
